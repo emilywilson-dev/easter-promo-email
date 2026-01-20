@@ -19,7 +19,7 @@ Responsive email template designed for cross-client compatibility
 
 ### Option 1: View live in your browser (GitHub Pages)
 Once GitHub Pages is enabled (see below), open:
-https://emilywilson-dev.github.io/fall-collection-email/
+https://emilywilson-dev.github.io/easter-promo-email/
 
 ### Option 2: View locally
 1. Click **Code → Download ZIP**  
