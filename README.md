@@ -11,7 +11,6 @@ Responsive email template designed for cross-client compatibility
 
 ## Screenshots 
 ![Gmail Dark Mode](email-screenshots/easter-promo-gmail-darkmode-screenshot1.png)
-![Gmail Dark Mode 2](email-screenshots/easter-promo-gmail-darkmode-screenshot2.png)
 ![Outlook](email-screenshots/easter-promo-office365-screenshot1.png)
 ![Outlook 2](email-screenshots/easter-promo-office365-screenshot.png)
 ![Apple Mail](email-screenshots/easter-promo-applemail-screenshot.png)
